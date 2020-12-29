@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T00:31:31.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mE32mlSJuwddl_OXmAQ8" version="14.1.3" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptj6I6FP41flwDFBA+rs7O3pvsbCZ3NzsfTYWKjYWaUkfn/vo9hQpYnFkzo6AbSdRyeujLec5z2h4coEm6/SrwavHAY8IGjhVvB+hu4Di2awXwoyQvpcQPw1KQCBprpVrwg/5PtNDS0jWNSb6nKDlnkq72hRHPMhLJPRkWgm/21eac7fe6wglpCX5EmLWlTzSWCy21Lauu+IfQZKG7DjxdMcPRMhF8nen+Bg6aF1dZneJdW1o/X+CYbxoi9GWAJoJzWZbS7YQwZdud2crn7l+prcYtSCaPecAPSTQn88iLXJu4TvTJ1sjl8mVnDBKDbfRtxjP4GRczJKoNC+4WMmVQtKHI8IywcWWECWdc1I+RLP6s0KkluRR8WdkYpj+e80ze45Qy5Tq/iIhxhrVY+4kanzlLPfGcr0VEXpuadiQsEiJf0UGljppyo2Ftu6+Ep0SKF1AQhGFJn/fdBWuvSyq92vJQ0MY/FoiyzWfM1mTnSwYwNC3c+Aj7126IxvqpO5omMChGZ/AdMbqaYiGhmBG54WJJM1X7RGGiJM+n//G1JGJqO8EWPsMV1Da9QHVdubJyiYinNNLlwxj/GcxnIiTZvgmDrnVHmk463Li+V95vavIGWmXRpK11BuCcFnD/ZmA7sGsPAE4YX8fngU2P9ZHnVFKegTAiaqJQoZCjEE2/GQqSr6AWM5ocVP+sK2ZcSp5CxRlcA9am/lzDDv/a4IqOCK7OxQRX1OLoPUS6DVZPdc7RXddd0VSUXv4qS1Max2r2FVEZmcsDNK30zkBTJ+yRpm7LO37iGesqfgO4K7XY5lCmj/hM0fvjkHnWPmQjq0fIvBZkj5Pu4XrgGZVcTH/yzeVulmxvHze/zxXRb+MmaLEt6Bw83fG1wOb2CdvoIuj2BEtoLrFati4VtREyyDbqEbWghdoDn1GAqxPkJJwkwfjpOoNNRLHVUOvbAraqlwpeYKxwntcjeGELvG94pQ5UndPuO5EzzpcfQa0xAqu4DuNJGWto3hfXgQ2uuj/U4ilcwDaibp+bnN1Y/g4fOCdzkWPsTe0+YTsildcAyvD6SXEdYo4fBPYYQU0icExJzQF9/N+J7+B8GemzXcaFmv8BCACtlRpMuk1UTn+oj6j5UMXsKaPZcloe3D+SkTgq//AOQr+ZmtB7zDdTE7qdP6YmGv5TvQxoOlAlPDqHoft45LD7bDiwsfSg0PDMcsb6qdo5Ww25RkOO2VBpllZDhZdXE3+n47dToTfHf5fjF3raaAfe8RzDAu8aWWCEcTewh6Hne449QqGNLO+dnDCSTZ4VDC0XuaPA8a3AD41mz8mQdiLyxpAOl4bdtuC6WGGcKd3wNKwIDFbYvbGinYC9saJDVrjXSArXjOmnIUVoNOv0Rop2ivtGig5JMbpGUnhmSD8JKcw3Px7qjRTt9wc3UnRIiuAaSeGbIf00pDAyhZ7bGynab2dupOiQFOE1ksI8EqPTkMI4wHveeUgBt/V/Zkv1+o/J6Mtv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-29T00:48:27.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="jgXMxr40nIwet0Nc9Ydl" version="14.1.3" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1298" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69ecfefc5c41e42c-18" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22;exitX=0;exitY=0.67;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UTdhqqSY7NLYQox5dxT_-1" target="69ecfefc5c41e42c-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="-79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="69ecfefc5c41e42c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="-60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-1" value="Wireless AP&lt;br&gt;" style="points=[[0,0.58,0],[0.09,0.58,0],[0.36,0.39,0],[0.64,0.195,0],[0.91,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0,1,0],[0.09,1,0],[0.36,1,0],[0.64,1,0],[0.91,1,0],[0,0.79,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wifi_indicator;fillColor=#ffffff;strokeColor=#000000;shadow=0;fontFamily=Helvetica;fontSize=22;fontColor=#000000;strokeWidth=2;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-130" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="69ecfefc5c41e42c-3" target="69ecfefc5c41e42c-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-3" value="ISP Modem&lt;br&gt;" style="image;html=1;image=img/lib/clip_art/networking/Modem_128x128.png;shadow=0;fontFamily=Helvetica;fontSize=22;fontColor=#000000;align=left;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-5" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="20" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-6" value="Printer" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Printer_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="830" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-7" value="PC" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="730" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-8" value="Mobile" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="760" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-9" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-10" value="Laptop" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Netbook_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22" parent="1" vertex="1">
+          <mxGeometry x="320" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-1" value="" style="points=[[0.03,0.36,0],[0.18,0,0],[0.5,0.34,0],[0.82,0,0],[0.97,0.36,0],[1,0.67,0],[0.975,0.975,0],[0.5,1,0],[0.025,0.975,0],[0,0.67,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_access_point;fillColor=#000000;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-110" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1" source="69ecfefc5c41e42c-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575" y="20" as="sourcePoint" />
+            <mxPoint x="625" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-9" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="80" as="sourcePoint" />
+            <mxPoint x="680" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-10" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;" vertex="1" parent="1">
+          <mxGeometry x="420" y="375" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-11" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.j993a_8_port_1g_10gbe_sfpplus_with_macsec_v3_zl2_module;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="75" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-12" value="" style="endArrow=none;html=1;" edge="1" parent="1" target="UTdhqqSY7NLYQox5dxT_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="290" as="sourcePoint" />
+            <mxPoint x="60" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="380" />
+              <mxPoint x="50" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-13" value="Netgear Network Hub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UTdhqqSY7NLYQox5dxT_-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="300" as="sourcePoint" />
+            <mxPoint x="80" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="400" />
+              <mxPoint x="60" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
